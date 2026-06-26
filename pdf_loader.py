@@ -7,7 +7,7 @@ def load_pdf(uploaded_file):
     with tempfile.NamedTemporaryFile(
         delete=False,
         suffix=".pdf"
-    ) as tmp:
+    ) as tmp:  
 
         tmp.write(uploaded_file.read())
         pdf_path = tmp.name
