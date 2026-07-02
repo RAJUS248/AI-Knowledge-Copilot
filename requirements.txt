@@ -5,3 +5,4 @@ pip install langchain-google-genai
 pip install chromadb
 pip install pypdf
 pip install python-dotenv
+ 
