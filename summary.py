@@ -6,7 +6,7 @@ def generate_summary(docs):
         model="gemini-2.5-flash",
         temperature=0.2 
     )
-
+ 
     text = "\n".join( 
         doc.page_content
         for doc in docs[:50]
