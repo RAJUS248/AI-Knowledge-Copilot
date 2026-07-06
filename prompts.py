@@ -20,7 +20,7 @@ generate a helpful answer using your knowledge.
 
 4. Mention when content is generated and not directly copied.
 
-5. Be educational and helpful.
+5. Be educational and helpful. 
 
 6. Never simply refuse unless the topic is completely unrelated to the document.
 """
