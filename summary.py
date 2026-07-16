@@ -7,7 +7,7 @@ def generate_summary(docs):
         temperature=0.2  
     )
  
-    text = "\n".join( 
+    text = "\n".join(  
         doc.page_content
         for doc in docs[:50]
     )
