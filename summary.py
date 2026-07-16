@@ -8,7 +8,7 @@ def generate_summary(docs):
     )
  
     text = "\n".join(  
-        doc.page_content
+        doc.page_content 
         for doc in docs[:50]
     )
 
