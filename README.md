@@ -38,7 +38,7 @@ Examples:
 * What are the key interview questions?
 * Summarize Chapter 5.
 
----
+--- 
 
 ### 📄 PDF Summary
 
