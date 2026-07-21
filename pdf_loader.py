@@ -16,4 +16,4 @@ def load_pdf(uploaded_file):
 
     docs = loader.load()
 
-    return docs 
+    return docs  
